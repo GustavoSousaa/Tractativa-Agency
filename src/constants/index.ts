@@ -1,6 +1,6 @@
 import { NavItem, Service, Testimonial } from '../types';
 
-export const WHATSAPP_URL = "https://wa.me/5511999999999"; // Replace with your actual WhatsApp number
+export const WHATSAPP_URL = "https://w.app/8qoc3n"; // Replace with your actual WhatsApp number
 
 export const NAV_ITEMS: NavItem[] = [
   { label: "Home", href: "#home" },
