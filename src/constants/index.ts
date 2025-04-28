@@ -39,7 +39,7 @@ export const SERVICES: Service[] = [
 export const TESTIMONIALS: Testimonial[] = [
   {
     id: 1,
-    name: "Carlos Silva",
+    name: "Silvs",
     role: "CEO",
     company: "TechSolutions",
     quote: "A Tractativa transformou completamente nossa presença digital. Resultados extraordinários em apenas 3 meses!",
@@ -47,7 +47,7 @@ export const TESTIMONIALS: Testimonial[] = [
   },
   {
     id: 2,
-    name: "Ana Ferreira",
+    name: "Inovations",
     role: "Diretora de Marketing",
     company: "Inovação Inc",
     quote: "Profissionalismo e criatividade em cada projeto. A equipe vai além do esperado para entregar excelência.",
@@ -55,7 +55,7 @@ export const TESTIMONIALS: Testimonial[] = [
   },
   {
     id: 3,
-    name: "Ricardo Gomes",
+    name: "Rests",
     role: "Proprietário",
     company: "Café Aroma",
     quote: "As estratégias de marketing digital implementadas pela Tractativa aumentaram nossas vendas em 70%.",
