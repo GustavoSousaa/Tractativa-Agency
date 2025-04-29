@@ -3,6 +3,8 @@ import { Send, MessageSquare } from 'lucide-react';
 import { WHATSAPP_URL } from '../constants';
 import { FormData } from '../types';
 
+
+
 const ContactForm: React.FC = () => {
   const [formData, setFormData] = useState<FormData>({
     name: '',
@@ -162,9 +164,9 @@ const ContactForm: React.FC = () => {
 
           <div className="flex flex-col justify-center">
             <div className="mb-8">
-              <h3 className="text-2xl font-bold mb-4">Por que escolher a Tractativa?</h3>
+              <h3 className="text-2xl font-bold mb-4">Por que escolher a Tractiva?</h3>
               <p className="text-gray-600 mb-6">
-                Na Tractativa, entendemos que cada negócio é único. Nossa abordagem personalizada garante resultados tangíveis e sustentáveis para o crescimento do seu negócio.
+                Na Tracttiva, entendemos que cada negócio é único. Nossa abordagem personalizada garante resultados tangíveis e sustentáveis para o crescimento do seu negócio.
               </p>
               <ul className="space-y-3">
                 {[

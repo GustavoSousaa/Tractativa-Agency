@@ -10,7 +10,7 @@ import WhatsAppButton from './components/WhatsAppButton';
 function App() {
   // Update document title
   useEffect(() => {
-    document.title = 'Tractativa Agency | Transforme sua presença digital';
+    document.title = 'tracttiva Agency | Transforme sua presença digital';
   }, []);
 
   // Add smooth scrolling behavior

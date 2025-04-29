@@ -42,7 +42,7 @@ export const TESTIMONIALS: Testimonial[] = [
     name: "Silvs",
     role: "CEO",
     company: "TechSolutions",
-    quote: "A Tractativa transformou completamente nossa presença digital. Resultados extraordinários em apenas 3 meses!",
+    quote: "A tracttiva transformou completamente nossa presença digital. Resultados extraordinários em apenas 3 meses!",
     image: "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=500"
   },
   {
@@ -58,7 +58,7 @@ export const TESTIMONIALS: Testimonial[] = [
     name: "Rests",
     role: "Proprietário",
     company: "Café Aroma",
-    quote: "As estratégias de marketing digital implementadas pela Tractativa aumentaram nossas vendas em 70%.",
+    quote: "As estratégias de marketing digital implementadas pela tracttiva aumentaram nossas vendas em 70%.",
     image: "https://images.pexels.com/photos/837358/pexels-photo-837358.jpeg?auto=compress&cs=tinysrgb&w=500"
   }
 ];

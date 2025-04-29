@@ -16,7 +16,7 @@ const Hero: React.FC = () => {
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-blue-500">
                 {" "}presença digital{" "}
               </span>
-              com a Tractativa
+              com a Tracttiva
             </h1>
             <p className="mt-6 text-xl text-gray-600 max-w-lg">
               Estratégias personalizadas para impulsionar sua marca e alcançar resultados extraordinários no mundo digital.
@@ -44,7 +44,7 @@ const Hero: React.FC = () => {
               <div className="relative bg-white p-6 rounded-lg shadow-xl">
                 <img 
                   src="https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
-                  alt="Tractativa Agency Team" 
+                  alt="Tracttiva Agency Team" 
                   className="w-full h-auto rounded-lg"
                 />
               </div>

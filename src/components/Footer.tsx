@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-2xl font-bold mb-6">
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-blue-400">
-                Tractativa
+                Tracttiva
               </span>
             </h3>
             <p className="text-gray-400 mb-6">
@@ -86,7 +86,7 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-center">
                 <Mail size={20} className="text-gray-400 mr-3" />
-                <span className="text-gray-400">contato@tractativa.com.br</span>
+                <span className="text-gray-400">contato@tracttiva.com.br</span>
               </li>
             </ul>
           </div>
@@ -95,7 +95,7 @@ const Footer: React.FC = () => {
         <div className="border-t border-gray-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              &copy; {currentYear} Tractativa Agency. Todos os direitos reservados.
+              &copy; {currentYear} Tracttiva Agency. Todos os direitos reservados.
             </p>
             <div className="flex space-x-6">
               <a href="#" className="text-gray-400 hover:text-white text-sm transition-colors">
